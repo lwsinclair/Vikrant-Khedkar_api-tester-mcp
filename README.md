@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/mcp-mirror-vikrant-khedkar-api-tester-mcp)
+
 # API Tester MCP Server
 
 This is a Model Context Protocol (MCP) server that allows Claude to make API requests on your behalf. It provides tools for testing various APIs, including a dedicated integration with OpenAI's APIs.
